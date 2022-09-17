@@ -1,0 +1,5 @@
+# Visual Studio 2015 user specific files
+TestTask_01/*.vs/
+TestTask_01/*.idea/
+TestTask_01/*Debug/
+TestTask_01/*X64/
